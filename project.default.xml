@@ -1,0 +1,91 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="project.structure.last.edited" value="Global Libraries" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="settings.github" />
+      </component>
+      <component name="RunDashboard">
+        <option name="ruleStates">
+          <list>
+            <RuleState>
+              <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+            </RuleState>
+            <RuleState>
+              <option name="name" value="StatusDashboardGroupingRule" />
+            </RuleState>
+          </list>
+        </option>
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>javafx13</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>13</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>11</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>lib</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
