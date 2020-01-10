@@ -65,4 +65,7 @@ public class PowerBall {
         }
         System.out.println("Good Luck! :)");
     }
+    public void versionControlCheck(){
+
+    }
 }
